@@ -5,10 +5,11 @@ The goal of this small project is to take a very simple, basic to-do list and ad
 The original to-do tutorial was from https://www.youtube.com/watch?v=9wiWzu_tRB0.
 
 #### Features Being added
-1. Tidying up existing interface
-2. A check box for completed Tasks
+1. A check box for completed Tasks
+2. Tidying up existing interface
 3. Change CSS Framework
 4. Add a list of completed Tasks
+5. Drag Items with mouse to change list order
 
 #### Completed Goal
 As this is a practice and learning project, I will likely not have a fully developed T0-DO website, but I can add more features as I further my learning
