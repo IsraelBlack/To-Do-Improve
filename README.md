@@ -1,5 +1,7 @@
 # To-do Improve
 
+## This Foundation Branch contains the original that I am building Upon
+
 #### Goals:
 The goal of this small project is to take a very simple, basic to-do list and add features to practice my front-end development skills.
 The original to-do tutorial was from https://www.youtube.com/watch?v=9wiWzu_tRB0.
